@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://sdd.org.edu.kg/</id>
+    <title>随风杂记</title>
+    <updated>2024-03-13T08:37:47.671Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://sdd.org.edu.kg/"/>
+    <link rel="self" href="http://sdd.org.edu.kg/atom.xml"/>
+    <subtitle>杂记型个人静态博客网站 记录生活中的点滴美好</subtitle>
+    <logo>http://sdd.org.edu.kg/images/avatar.png</logo>
+    <icon>http://sdd.org.edu.kg/favicon.ico</icon>
+    <rights>All rights reserved 2024, 随风杂记</rights>
+    <entry>
+        <title type="html"><![CDATA[话题【二】]]></title>
+        <id>http://sdd.org.edu.kg/hua-ti-er/</id>
+        <link href="http://sdd.org.edu.kg/hua-ti-er/">
+        </link>
+        <updated>2024-02-16T04:23:09.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[话题【一】]]></title>
+        <id>http://sdd.org.edu.kg/huati/</id>
+        <link href="http://sdd.org.edu.kg/huati/">
+        </link>
+        <updated>2024-02-16T01:32:49.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读《我们内心的冲突》有感]]></title>
+        <id>http://sdd.org.edu.kg/wmnxdct/</id>
+        <link href="http://sdd.org.edu.kg/wmnxdct/">
+        </link>
+        <updated>2024-02-16T01:23:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello 世界！]]></title>
+        <id>http://sdd.org.edu.kg/hello-gridea/</id>
+        <link href="http://sdd.org.edu.kg/hello-gridea/">
+        </link>
+        <updated>2023-09-15T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎来到我的个人博客网站 <strong>叨叨日记</strong> ！<br>
+✍️  <strong>叨叨日记</strong> 一个杂谈型博客。你可以用它来找寻你想要的知识、笔记、文章、话题......</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎来到我的个人博客网站 <strong>叨叨日记</strong> ！<br>
+✍️  <strong>叨叨日记</strong> 一个杂谈型博客。你可以用它来找寻你想要的知识、笔记、文章、话题......</p>
+]]></content>
+    </entry>
+</feed>
